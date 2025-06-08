@@ -1,3 +1,5 @@
+
+
 <html lang="en">
 
 <head>
@@ -43,7 +45,7 @@
                 <div id="stiker2" class="scale0 stiker">
                     <img src="https://feeldreams.github.io/peachspeech.gif" />
                 </div>
-                <h1 id="teks2" class="scale0 quicksand" style="font-size: 18px;">makasih sudah bertahan sampai sejauh ini sama sikapku,<br><br>jadi harus diapresiasikan ahahah<br>SELAMAT ATAS PENCAPAIANNYA<br><br>uhuyyy!!! >>>></h1>
+                <h1 id="teks2" class="scale0 quicksand" style="font-size: 18px;">makasih sudah bertahan sampai sejauh ini sama sikapku,<br><br>jadi harus diapresiasikan ahahah<br>SELAMAT ATAS PENCAPAIANNYA<br><br>uhuyyy!!!></h1>
             </div>
 
             <div class="swiper-slide">
@@ -68,7 +70,7 @@
                     <img id="stikerAkhir3" class="hidden" src="https://feeldreams.github.io/peach1.gif" />
                 </div>
                 <div id="scroll-container" class="blocktext">
-                    <h1 id="teks4" class="scale0 quicksand" style="font-size: 17px;font-weight:400"><b style="font-size:20px;font-weight:700">sekali lagi makasih sayangku</b>?!! 🥳</b><br><br>kusayangki lebih dari apapun,<br>maaf nah belum bisaka kasiki yang terbaik <br>maaf masih seringka kecewakanki,maaf sekaliii</h1>
+                    <h1 id="teks4" class="scale0 quicksand" style="font-size: 17px;font-weight:400"><b style="font-size:20px;font-weight:700">sekali lagi makasih sayangku<br><br>kusayangki lebih dari apapun,<br>maaf nah belum bisaka kasiki yang terbaik<br>maaf masih seringka kecewakanki,maaf sekaliii</h1>
                     <h1 id="teksTambahan" class="hidden"><span id="teksLove">I Love You Dheaaa</span></h1>
                     <!-- Emoji Bisa Lebih dari 1 -->
                     <script>const emojiAcak = ['💖', '❤️', '🧡', '💜', '🩵', '💚', '💙', '🤍', '💛', '🩷']</script>
