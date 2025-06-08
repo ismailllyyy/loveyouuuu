@@ -56,7 +56,7 @@
 				        <div class="sub-title">Orang paling baik,sabar dan lucu</div>
 				        <div class="content">Diberikan khusus kepada</div>
 				        <h1 style="font-size:25px;margin:5px;text-decoration: underline;text-decoration-color:pink">DHEA ARTIKA</h1>
-				        <div class="content">Makasih sudah jadi bagian dari hidupku<br>makasih juga sudah sabar hadapika selama ini,<br>sayangki.</bt>.</div>
+				        <div class="content">Makasih sudah jadi bagian dari hidupku<br>makasih juga sudah sabar hadapika selama ini,<br>sayangki.<bt></div>
 				    </div>
 				</div>
             </div>
@@ -68,7 +68,7 @@
                     <img id="stikerAkhir3" class="hidden" src="https://feeldreams.github.io/peach1.gif" />
                 </div>
                 <div id="scroll-container" class="blocktext">
-                    <h1 id="teks4" class="scale0 quicksand" style="font-size: 17px;font-weight:400"><b style="font-size:20px;font-weight:700">sekali lagi makasih sayangku</b>?!! 🥳</b><br><br>kusayangki lebih dari apapun,<br>maaf nah belum bisaka kasiki yang terbaik <br>maaf masih seringka kecewakanki,maaf sekali!!!!!</h1>
+                    <h1 id="teks4" class="scale0 quicksand" style="font-size: 17px;font-weight:400"><b style="font-size:20px;font-weight:700">sekali lagi makasih sayangku</b>?!! 🥳</b><br><br>kusayangki lebih dari apapun,<br>maaf nah belum bisaka kasiki yang terbaik <br>maaf masih seringka kecewakanki,maaf sekaliii</h1>
                     <h1 id="teksTambahan" class="hidden"><span id="teksLove">I Love You Dheaaa</span></h1>
                     <!-- Emoji Bisa Lebih dari 1 -->
                     <script>const emojiAcak = ['💖', '❤️', '🧡', '💜', '🩵', '💚', '💙', '🤍', '💛', '🩷']</script>
